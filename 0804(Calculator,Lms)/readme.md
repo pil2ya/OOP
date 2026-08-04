@@ -1,3 +1,6 @@
+<!-- 문서 맨 처음에 위치하는 최상단 앵커 -->
+<a name="top"></a>
+
 # 바이브 코딩 연습
 ## 계산기, 도서 관리 시스템 제작
 
@@ -63,6 +66,10 @@
   * **문제 상황:** 일반용과 공학용 화면을 하나의 창에서 버튼 클릭 하나로 확장/축소할 수 있어야 했습니다.
   * **해결 방법:** `toggle_mode`로 창의 가로 폭을 동적으로 변경하고, 일반용 버튼 20개와 공학용 확장 버튼들이 비율에 맞게 재배치되도록 구현했습니다.
 
+<div align="right">
+  <a href="#top"><b>👆 맨 위로 이동하기</b></a>
+</div>
+
 ---
 
 <a name="lms"></a>
@@ -118,6 +125,10 @@
   * **궁금증:** Release 빌드 시 생성되는 `.pdb` 파일이 없으면 `.exe` 파일이 작동하지 않는지 의문이 생겼습니다.
   * **확인 결과:** 디버깅용 파일이므로 최종 실행 시에는 **`.exe` 파일만 단독으로 배포해도 완벽하게 작동**함을 확인했습니다.
 
+<div align="right">
+  <a href="#top"><b>👆 맨 위로 이동하기</b></a>
+</div>
+
 ---
 
 <a name="tech"></a>
@@ -125,3 +136,7 @@
 * **Language:** C++ (Win32 API) / Python
 * **IDE / Tool:** Visual Studio, VS Code
 * **Data Storage:** Local Text File (`library.txt`)
+
+<div align="right">
+  <a href="#top"><b>👆 맨 위로 이동하기</b></a>
+</div>
