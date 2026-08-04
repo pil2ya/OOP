@@ -7,10 +7,17 @@
 도서 등록, 검색, 대출, 반납, 파일 입출력 및 GUI 환경 최적화 과정을 담고 있습니다.
 
 
-![Python](./LMS(VS_code).png "파이썬(Python)버전")
+<figure align="center">
+  <img src="./LMS(VS_code).png" alt="Python Version" width="700">
+  <figcaption><b>파이썬(Python) 버전</b></figcaption>
+</figure>
 
+<br>
 
-![C++](./LMS(VS).png "C++(Win32 API)버전")
+<figure align="center">
+  <img src="./LMS(VS).png" alt="C++ Version" width="700">
+  <figcaption><b>C++(Win32 API) 버전</b></figcaption>
+</figure>
 
 
 ---
