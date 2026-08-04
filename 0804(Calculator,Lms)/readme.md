@@ -4,14 +4,15 @@
 ---
 
 ## 📌 목차 (Table of Contents)
-* [1. 스마트 공학용 계산기](#-스마트-공학용-계산기-smart-engineering-calculator)
-  * [계산기 개발 과정 및 트러블슈팅](#-계산기-개발-과정-및-주요-트러블슈팅-troubleshooting)
-* [2. 도서관 관리 프로그램](#-도서관-관리-프로그램-library-management-system)
-  * [도서관 관리 프로그램 개발 과정 및 트러블슈팅](#-도서관-관리-프로그램-개발-과정-및-주요-트러블슈팅-troubleshooting)
-* [3. 기술 스택](#-기술-스택-tech-stack)
+* [1. 스마트 공학용 계산기](#calculator)
+  * [계산기 개발 과정 및 트러블슈팅](#calc-trouble)
+* [2. 도서관 관리 프로그램](#lms)
+  * [도서관 관리 프로그램 개발 과정 및 트러블슈팅](#lms-trouble)
+* [3. 기술 스택](#tech)
 
 ---
 
+<a name="calculator"></a>
 ## 🧮 스마트 공학용 계산기 (Smart Engineering Calculator)
 
 파이썬(`tkinter` 및 `math`)을 활용하여 제작한 GUI 기반의 공학용 계산기 프로젝트입니다. 일반용 모드와 공학용 모드 간의 유연한 화면 전환, 직관적인 버튼 레이아웃, 그리고 고급 수식 전처리 기능을 담고 있습니다.
@@ -33,7 +34,8 @@
 
 ---
 
-### <a id="계산기-개발-과정-및-주요-트러블슈팅-troubleshooting"></a>🛠️ 계산기 개발 과정 및 주요 트러블슈팅 (Troubleshooting)
+<a name="calc-trouble"></a>
+### 🛠️ 계산기 개발 과정 및 주요 트러블슈팅 (Troubleshooting)
 
 계산기를 구현하며 단계별로 확장해 나간 주요 기능과 해결 과정의 기록입니다.
 
@@ -54,7 +56,7 @@
   * **해결 방법:** 화면에는 직관적인 `π` 문자로 예쁘게 출력되도록 유지하고, 실제 계산(`eval`) 직전 단계에서 파이썬의 `math.pi` 값으로 자동 치환되도록 분리했습니다.
 
 * **결과값 연산 체이닝(`=`) 및 입력 상태 제어**
-  * **문제 상황:** `=`를 눌러 결과가 나온 직후 연산을 이어나갈 때와 새로운 숫자를 누을 때의 입력 규칙을 정립해야 했습니다.
+  * **문제 상황:** `=`를 눌러 결과가 나온 직후 연산을 이어나갈 때와 새로운 숫자를 누를 때의 입력 규칙을 정립해야 했습니다.
   * **해결 방법:** `clear_on_next_input` 플래그를 두어, 연산자를 누르면 결과값에 이어서 수식이 확장되고, 숫자를 누르면 새로운 입력으로 전환되도록 제어했습니다.
 
 * **공학용 모드 토글(Toggle) 및 동적 레이아웃 구성**
@@ -63,6 +65,7 @@
 
 ---
 
+<a name="lms"></a>
 ## 📚 도서관 관리 프로그램 (Library Management System)
 
 파이썬(Python)과 C++(Win32 API) 두 가지 버전으로 구현해 보며 발전시킨 도서관 관리 프로그램 프로젝트입니다.
@@ -82,7 +85,8 @@
 
 ---
 
-### <a id="도서관-관리-프로그램-개발-과정-및-주요-트러블슈팅-troubleshooting"></a>🛠️ 도서관 관리 프로그램 개발 과정 및 주요 트러블슈팅 (Troubleshooting)
+<a name="lms-trouble"></a>
+### 🛠️ 도서관 관리 프로그램 개발 과정 및 주요 트러블슈팅 (Troubleshooting)
 
 프로젝트를 진행하며 마주쳤던 주요 문제들과 이를 해결한 과정의 기록입니다.
 
@@ -116,7 +120,8 @@
 
 ---
 
-## <a id="기술-스택-tech-stack"></a>🚀 기술 스택 (Tech Stack)
+<a name="tech"></a>
+## 🚀 기술 스택 (Tech Stack)
 * **Language:** C++ (Win32 API) / Python
 * **IDE / Tool:** Visual Studio, VS Code
 * **Data Storage:** Local Text File (`library.txt`)
