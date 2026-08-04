@@ -8,9 +8,15 @@
 파이썬(`tkinter` 및 `math`)을 활용하여 제작한 GUI 기반의 공학용 계산기 프로젝트입니다. 일반용 모드와 공학용 모드 간의 유연한 화면 전환, 직관적인 버튼 레이아웃, 그리고 고급 수식 전처리 기능을 담고 있습니다.
 
 <div align="center">
-  <h3>파이썬(Python) 공학용 계산기 버전</h3>
-  <!-- 계산기 이미지 파일명이 있다면 여기에 경로를 넣어주세요 -->
+  <h3>파이썬(Python) 버전</h3>
   <img src="./Calculator(VSCODE).png" alt="Calculator Version" width="400">
+</div>
+
+<br><br>
+
+<div align="center">
+  <h3>C++(Win32 API) 버전</h3>
+  <img src="./Calculator(VS).png" alt="C++ Version" width="700">
 </div>
 
 ---
