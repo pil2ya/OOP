@@ -25,11 +25,11 @@
     <tr>
       <td align="center" style="border: none; padding: 0 15px; vertical-align: top;">
         <p style="margin: 0 0 10px 0; font-size: 1.17em;"><b>파이썬(Python) 버전</b></p>
-        <img src="./IMG/Calculator(VSCODE).png" alt="Calculator Python Version" width="350" style="display: block; margin: 0;">
+        <img src="/IMG/Calculator(VSCODE).png" alt="Calculator Python Version" width="350" style="display: block; margin: 0;">
       </td>
       <td align="center" style="border: none; padding: 0 15px; vertical-align: top;">
         <p style="margin: 0 0 10px 0; font-size: 1.17em;"><b>C++(Win32 API) 버전</b></p>
-        <img src="./IMG/Calculator(VS).png" alt="Calculator C++ Version" width="350" style="display: block; margin: 0;">
+        <img src="/IMG/Calculator(VS).png" alt="Calculator C++ Version" width="350" style="display: block; margin: 0;">
       </td>
     </tr>
   </table>
