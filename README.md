@@ -4,7 +4,7 @@
 # 객체지향 정보
 ## Python & C++ 를 이용한 Programing
 
-![Markdown](./markdown.png)
+![Markdown](./IMG/markdown.png)
 
 # 📝 GitHub README 마크다운 작성 가이드
 
