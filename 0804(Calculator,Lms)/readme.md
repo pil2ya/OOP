@@ -10,7 +10,7 @@
 <div align="center">
   <h3>파이썬(Python) 공학용 계산기 버전</h3>
   <!-- 계산기 이미지 파일명이 있다면 여기에 경로를 넣어주세요 -->
-  <!-- <img src="./Calculator.png" alt="Calculator Version" width="400"> -->
+  <img src="./Calculator(VSCODE).png" alt="Calculator Version" width="400">
 </div>
 
 ---
