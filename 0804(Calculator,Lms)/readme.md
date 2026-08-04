@@ -3,6 +3,15 @@
 
 ---
 
+## 📌 목차 (Table of Contents)
+* [1. 스마트 공학용 계산기](#-스마트-공학용-계산기-smart-engineering-calculator)
+  * [계산기 개발 과정 및 트러블슈팅](#-계산기-개발-과정-및-주요-트러블슈팅-troubleshooting)
+* [2. 도서관 관리 프로그램](#-도서관-관리-프로그램-library-management-system)
+  * [도서관 관리 프로그램 개발 과정 및 트러블슈팅](#-도서관-관리-프로그램-개발-과정-및-주요-트러블슈팅-troubleshooting)
+* [3. 기술 스택](#-기술-스택-tech-stack)
+
+---
+
 ## 🧮 스마트 공학용 계산기 (Smart Engineering Calculator)
 
 파이썬(`tkinter` 및 `math`)을 활용하여 제작한 GUI 기반의 공학용 계산기 프로젝트입니다. 일반용 모드와 공학용 모드 간의 유연한 화면 전환, 직관적인 버튼 레이아웃, 그리고 고급 수식 전처리 기능을 담고 있습니다.
