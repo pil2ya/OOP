@@ -16,7 +16,7 @@
 
 <div align="center">
   <h3>C++(Win32 API) 버전</h3>
-  <img src="./Calculator(VS).png" alt="C++ Version" width="700">
+  <img src="./Calculator(VS).png" alt="C++ Version" width="400">
 </div>
 
 ---
