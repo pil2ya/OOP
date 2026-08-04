@@ -2,7 +2,7 @@
 <a name="top"></a>
 
 # 객체지향 정보
-## Python & C++
+## Python & C++ 를 이용한 Programing
 
 ![Markdown](./markdown.png)
 
