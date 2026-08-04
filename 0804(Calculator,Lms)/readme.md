@@ -8,15 +8,15 @@
 파이썬(`tkinter` 및 `math`)을 활용하여 제작한 GUI 기반의 공학용 계산기 프로젝트입니다. 일반용 모드와 공학용 모드 간의 유연한 화면 전환, 직관적인 버튼 레이아웃, 그리고 고급 수식 전처리 기능을 담고 있습니다.
 
 <div align="center">
-  <table style="border-collapse: collapse; border: none;">
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin: 0 auto;">
     <tr>
-      <td style="text-align: center; border: none; padding: 10px;">
-        <h3>파이썬(Python) 버전</h3>
-        <img src="./Calculator(VSCODE).png" alt="Calculator Python Version" width="350">
+      <td align="center" style="border: none; padding: 0 15px; vertical-align: top;">
+        <h3 style="margin-top: 0; margin-bottom: 10px;">파이썬(Python) 버전</h3>
+        <img src="./Calculator(VSCODE).png" alt="Calculator Python Version" width="350" style="display: block; margin: 0;">
       </td>
-      <td style="text-align: center; border: none; padding: 10px;">
-        <h3>C++(Win32 API) 버전</h3>
-        <img src="./Calculator(VS).png" alt="Calculator C++ Version" width="350">
+      <td align="center" style="border: none; padding: 0 15px; vertical-align: top;">
+        <h3 style="margin-top: 0; margin-bottom: 10px;">C++(Win32 API) 버전</h3>
+        <img src="./Calculator(VS).png" alt="Calculator C++ Version" width="350" style="display: block; margin: 0;">
       </td>
     </tr>
   </table>
