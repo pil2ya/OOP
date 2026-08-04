@@ -6,11 +6,12 @@
 파이썬(Python)과 C++(Win32 API) 두 가지 버전으로 구현해 보며 발전시킨 도서관 관리 프로그램 프로젝트입니다.
 도서 등록, 검색, 대출, 반납, 파일 입출력 및 GUI 환경 최적화 과정을 담고 있습니다.
 
-파이썬(Python)버전
-![Python](./LMS(VS_code).png)
 
-C++(Win32 API)버전
+![Python](./LMS(VS_code).png)
+[Python]:./LMS(VS_code).png "파이썬(Python)버전"
+
 ![C++](./LMS(VS).png)
+[C++]: ./LMS(VS).png "C++(Win32 API)버전"
 
 ---
 
