@@ -11,11 +11,11 @@
   <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin: 0 auto;">
     <tr>
       <td align="center" style="border: none; padding: 0 15px; vertical-align: top;">
-        <h3 style="margin-top: 0; margin-bottom: 10px;">파이썬(Python) 버전</h3>
+        <p style="margin: 0 0 10px 0; font-size: 1.17em;"><b>파이썬(Python) 버전</b></p>
         <img src="./Calculator(VSCODE).png" alt="Calculator Python Version" width="350" style="display: block; margin: 0;">
       </td>
       <td align="center" style="border: none; padding: 0 15px; vertical-align: top;">
-        <h3 style="margin-top: 0; margin-bottom: 10px;">C++(Win32 API) 버전</h3>
+        <p style="margin: 0 0 10px 0; font-size: 1.17em;"><b>C++(Win32 API) 버전</b></p>
         <img src="./Calculator(VS).png" alt="Calculator C++ Version" width="350" style="display: block; margin: 0;">
       </td>
     </tr>
